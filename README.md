@@ -1,2 +1,2 @@
-# BruhSomeoneTookMySpicyUsername.github.io
+# bruhspicy.github.io
 Personal site
