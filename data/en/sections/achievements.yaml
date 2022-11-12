@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+  - title: Graduation
+    image: /images/sections/achievements/graduation-cap.jpg
+    summary: Opening Speaker at Edgemont High School 2022 Graduation
+  - title: Golden Krust
+    image: /images/sections/achievements/sport.jpg
+    summary: Led a team of fellow high schoolers to help Golden Krust recover from the pandemic.
+  # - title: Graduation
+  #   image: /images/sections/achievements/graduation-cap.jpg
+  #   summary: Opening Speaker at Edgemont High School 2022 Graduation
+  # - title: Award Winner
+  #   image: /images/sections/achievements/woman-winner.jpg
+  #   summary: Wined best paper award at IEE Conference 2020.

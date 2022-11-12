@@ -1,0 +1,20 @@
+# personal info
+name: "Gerald Wang"
+
+# greeting message
+greeting: "Hey! I'm"
+image:
+
+# contact info to be used in footer
+contactInfo:
+  email: "geraldyywang@gmail.com"
+  github: bruhspicy
+  linkedin:
+  instagram: "@gerladthedancer"
+
+# summary about me
+summary:
+  - I'm a current freshman at the University of Toronto studying computer science
+  - I love coding projects in my free time
+  - I enjoy learning new programming frameworks and languages
+  - I'm a ballroom dancer and a varsity fencer

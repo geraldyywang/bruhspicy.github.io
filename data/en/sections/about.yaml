@@ -1,0 +1,56 @@
+section:
+  name: About Me
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Student
+
+company:
+  name: University of Toronto
+  url: "https://www.utoronto.ca/"
+
+summary: #TODO
+
+socialLinks:
+  - name: email
+    icon: #TODO
+    url: "geraldyywang@gmail.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/bruhspicy"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: ""
+
+resourceLinks:
+  - title: "My Resume"
+    url: "resources/_gen/assets/ResumeTemp.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+  - type: soft-skill-indicator
+    name: Leadership & Team Work
+    percentage: 100
+    color: blue
+
+  - type: soft-skill-indicator
+    name: Humble & Curious
+    percentage: 100
+    color: yellow
+
+  - type: soft-skill-indicator
+    name: Diligent
+    percentage: 100
+    color: orange
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

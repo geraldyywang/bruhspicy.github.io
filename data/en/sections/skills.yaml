@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Python
+    logo:
+    summary: "Working with NumPy, Tensorflow, and Keras libraries to do machine learning."
+    url: "https://kubernetes.io/"
+
+  - name: HTML & CSS
+    logo:
+    summary: "Learned how to design effective websites with HTML and CSS through Cornell University's Web Design and Development Certificate."
+    url: "https://golang.org/"
+
+  - name: Java
+    logo:
+    summary: "Basic knowledge of Java, used in some high school projects."
+
+  - name: React Native
+    logo:
+    summary: "Learned React Native over the summer, now applying it to make mobile apps."
+    url: "https://www.docker.com/"
+
+  - name: VS Code IDE
+    logo:
+    summary: "Experienced with Visual Studio Code."
+    url: "https://prometheus.io/"
+
+  - name: Git
+    logo:
+    summary: "Experienced with git-based version control with GitHub."
+    url: "https://git-scm.com/"

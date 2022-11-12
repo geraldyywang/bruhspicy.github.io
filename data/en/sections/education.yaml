@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+  - name: B.S. Computer Science Specialist
+    icon: fa-graduation-cap
+    timeframe: 2022 - Present
+    institution:
+      name: University of Toronto
+      url: "#"
+    grade: #(optional)
+      scale: GPA
+      achieved: --
+      outOf: 4
+    # takenCourses: #(optional)
+    #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    #   showGrades: true
+    #   collapseAfter: 3
+    #   courses:
+    #     - name: Data Structures and Algorithm
+    #       achieved: 3.75
+    #       outOf: 4
+    #     - name: Network Security
+    #       achieved: 3.80
+    #       outOf: 4
+    #     - name: Operating System
+    #       achieved: 3.5
+    #       outOf: 4
+    #     - name: Artificial Intelligent
+    #       achieved: 3.75
+    #       outOf: 4
+    # publications: #(optional)
+    #   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #     url: "#"
+    #   - title: Fusce eu augue ut odio porttitor pulvinar.
+    #     url: "#"
+    extracurricularActivities: #(optional)
+      - Varsity Blues Foil Fencer
+      - Registered Study Group Leader for PHY151, CSC110, MAT137
+      - UofTAI Learn AI
+      - Volunteer Notetaker for Accessibility Services for CSC110
+
+  - name: Secondary School Certificate
+    icon: fa-school
+    timeframe: 2018 - 2022
+    institution:
+      name: Edgemont High School
+    grade: #(optional)
+      scale: GPA
+      achieved: 5.59
+      outOf: 5 (weighted)
+    extracurricularActivities: #(optional)
+      - Co-Founder and Coach of EHS Fencing Club
+      - Competitive Foil and Saber Fencer
+      - International Latin Ballroom Dancer
+      - Columbia University's Science Honors Program Participant
