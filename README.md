@@ -1,2 +1,3 @@
 # bruhspicy.github.io
-Personal site
+Personal site powered by HUGO.
+https://geraldwang.netlify.app/
