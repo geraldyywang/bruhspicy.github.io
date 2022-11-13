@@ -14,9 +14,9 @@ accomplishments:
     timeline: "June 2022 - August 2022"
     organization:
       name: Cornell University
-      url: https://ecornell.cornell.edu/certificates/technology/web-design-and-development/
+      url: https://www.cornell.edu/
     courseOverview: \"This front-end web development certificate is all about designing and building websites that are focused on the needs of users, striking a balance between form and function. From the very beginning, you will explore the ideas of mental models and target audience personas. By taking a design-first, code-second approach, you will learn to structure content and make informed design decisions based on the needs of potential website visitors before writing a single line of code. Foundational concepts of writing valid HTML and CSS are paired with accessibility best practices to ensure you can implement your designs effectively and accurately. Through an introduction to JavaScript, jQuery, and data collection, you will explore adding simple interactivity and forms to your websites. Throughout these courses, you will practice meeting the needs of your target audiences while designing web experiences that are attractive, functional, and accessible.\"
-    certificateURL: "https://example.com"
+    certificateURL: "https://ecornell.cornell.edu/certificates/technology/web-design-and-development/"
 
   # - name: Machine Learning
   #   timeline: "Jun 2020 - Jan 2021"

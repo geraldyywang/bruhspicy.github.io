@@ -13,8 +13,8 @@ customMenus:
   showOnFooter: false
 
 openGraph:
-  title: Gerald's Blog
+  title: Gerald's Site
   type: website
   description: Gerald Wang portfolio and personal blog
-  image: resources/_gen/images/transparentTest.png
-  url: https://bruhspicy.github.io
+  image: images/author/avatar.png
+  url: https://geraldwang.netlify.app/

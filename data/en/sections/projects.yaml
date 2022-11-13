@@ -46,15 +46,6 @@ projects:
   #   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
   #   tags: ["academic", "iot"]
 
-  # - name: Nocode
-  #   logo: /images/sections/projects/no-code.png
-  #   role: Nothing
-  #   timeline: "Oct 2019 - Dec 2019"
-  #   repo: https://github.com/kelseyhightower/nocode
-  #   #url: ""
-  #   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  #   tags: ["hobby", "fun"]
-
   - name: Petting Simulator 2021
     logo: /images/sections/projects/toha.png
     role: Lead developer
@@ -62,3 +53,11 @@ projects:
     repo: https://github.com/bruhspicy/petting-simulator-2021
     summary: A 2-D game where the player runs around collecting dogs and power ups under time pressure. Developed by me and a few friends.
     tags: ["hobby", "game", "java"]
+
+  - name: bruhspicy.github.io
+    role: Owner
+    timeline: "Nov 2022"
+    repo: https://github.com/bruhspicy/bruhspicy.github.io
+    #url: ""
+    summary: Personal site built with HUGO (this). Hosted with Netlify.
+    tags: ["hobby", "fun"]

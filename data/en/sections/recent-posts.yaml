@@ -2,9 +2,11 @@
 section:
   name: Recent Posts
   id: recent-posts
-  enable: false
+  enable: true
   weight: 7
   showOnNavbar: true
+  numShow: 4
+  showMoreButton: true
   # Can optionally hide the title in sections
   # hideTitle: true
 # no additional configuration is required
