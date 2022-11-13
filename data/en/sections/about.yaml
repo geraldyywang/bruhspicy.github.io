@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Computer Science student
+designation: Undergraduate student
 
 company:
   name: University of Toronto
@@ -17,7 +17,7 @@ summary: Passionate computer science student that's excited to learn new things 
 socialLinks:
   - name: email
     icon: "fas fa-envelope"
-    url: "geraldyywang@gmail.com"
+    url: "mailto:geraldyywang@gmail.com"
 
   - name: Github
     icon: "fab fa-github"
@@ -25,7 +25,7 @@ socialLinks:
 
   - name: LinkedIn
     icon: "fab fa-linkedin"
-    url: ""
+    url: "https://www.linkedin.com/in/gerald-wang-b05106257/"
 
 resourceLinks:
   - title: "My Resume"
