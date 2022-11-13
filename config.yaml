@@ -1,3 +1,61 @@
-baseURL: http://example.org/
+baseURL: http://bruhspicy.github.io
 languageCode: en-us
-title: My New Hugo Site
+title: Gerald's Site
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+enableEmoji: true
+
+params:
+  background: /images/site/bg2.jpg
+
+  # logo:
+  #   main: /images/site/bslogo.png
+  #   inverted: /images/site/bslogo.png
+  #   favicon: /images/site/bslogo.png
+
+  gitRepo: https://github.com/bruhspicy/bruhspicy.github.io
+  gitBranch: main
+
+  topNavbar:
+    maxVisibleSections: 5
+
+  darkMode:
+    provider: darkreader
+    enable: true
+    default: system
+
+  features:
+    # Enable and configure portfolio
+    portfolio:
+      enable: true
+    # Enable and configure blog posts
+    blog:
+      enable: true
+      # Share post on different social media
+      shareButtons:
+        facebook: true
+        twitter: true
+        linkedin: true
+        reddit: true
+        whatsapp: true
+        email: true
+
+  analytics:
+    enabled: true
+    google:
+      id:
+
+  enableTOC: true
+
+  enableTags: true
+
+  showFlags: true
+
+  newsletter:
+    enable: false
+    provider: mailchimp
+    mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e

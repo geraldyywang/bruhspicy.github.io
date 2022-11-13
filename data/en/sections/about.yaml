@@ -6,17 +6,17 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Student
+designation: Computer Science student
 
 company:
   name: University of Toronto
   url: "https://www.utoronto.ca/"
 
-summary: #TODO
+summary: Passionate computer science student that's excited to learn new things and try new approaches!
 
 socialLinks:
   - name: email
-    icon: #TODO
+    icon: "fas fa-envelope"
     url: "geraldyywang@gmail.com"
 
   - name: Github
@@ -29,7 +29,7 @@ socialLinks:
 
 resourceLinks:
   - title: "My Resume"
-    url: "resources/_gen/assets/ResumeTemp.pdf"
+    url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

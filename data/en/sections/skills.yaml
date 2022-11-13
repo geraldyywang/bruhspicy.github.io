@@ -12,30 +12,31 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
   - name: Python
-    logo:
+    logo: /images/sections/skills/python.png
     summary: "Working with NumPy, Tensorflow, and Keras libraries to do machine learning."
-    url: "https://kubernetes.io/"
+    url: "https://www.python.org/"
 
   - name: HTML & CSS
-    logo:
+    logo: /images/sections/skills/htmlcss.png
     summary: "Learned how to design effective websites with HTML and CSS through Cornell University's Web Design and Development Certificate."
-    url: "https://golang.org/"
+    url: "https://developer.mozilla.org/en-US/"
 
   - name: Java
-    logo:
+    logo: /images/sections/skills/java.png
     summary: "Basic knowledge of Java, used in some high school projects."
+    url: "https://www.java.com/en/"
 
   - name: React Native
-    logo:
+    logo: /images/sections/skills/reactnative.png
     summary: "Learned React Native over the summer, now applying it to make mobile apps."
-    url: "https://www.docker.com/"
+    url: "https://reactnative.dev/"
 
   - name: VS Code IDE
-    logo:
+    logo: /images/sections/skills/vscode.png
     summary: "Experienced with Visual Studio Code."
-    url: "https://prometheus.io/"
+    url: "https://code.visualstudio.com/"
 
   - name: Git
-    logo:
+    logo: /images/sections/skills/git.png
     summary: "Experienced with git-based version control with GitHub."
     url: "https://git-scm.com/"

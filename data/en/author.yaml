@@ -3,7 +3,7 @@ name: "Gerald Wang"
 
 # greeting message
 greeting: "Hey! I'm"
-image:
+image: "images/author/avatar.png"
 
 # contact info to be used in footer
 contactInfo:

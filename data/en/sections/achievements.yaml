@@ -11,14 +11,14 @@ section:
 # Your achievements achievements
 achievements:
   - title: Graduation
-    image: /images/sections/achievements/graduation-cap.jpg
+    image: /images/sections/achievements/grad.jpg
     summary: Opening Speaker at Edgemont High School 2022 Graduation
   - title: Golden Krust
-    image: /images/sections/achievements/sport.jpg
+    image: /images/sections/achievements/goldenkrust.jpg
     summary: Led a team of fellow high schoolers to help Golden Krust recover from the pandemic.
-  # - title: Graduation
-  #   image: /images/sections/achievements/graduation-cap.jpg
-  #   summary: Opening Speaker at Edgemont High School 2022 Graduation
+  - title: 51st Annual RMC Invitational Team Competition Bronze Medalist
+    image: /images/sections/achievements/rmc.jpg
+    summary: Won team bronze among 27 teams total. (November 2022)
   # - title: Award Winner
   #   image: /images/sections/achievements/woman-winner.jpg
   #   summary: Wined best paper award at IEE Conference 2020.
