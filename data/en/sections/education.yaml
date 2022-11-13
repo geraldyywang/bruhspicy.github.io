@@ -15,7 +15,7 @@ degrees:
     timeframe: 2022 - Present
     institution:
       name: University of Toronto
-      url: "#"
+      url: "https://www.utoronto.ca/"
     grade: #(optional)
       scale: GPA
       achieved: --
@@ -53,6 +53,7 @@ degrees:
     timeframe: 2018 - 2022
     institution:
       name: Edgemont High School
+      url: "https://ehs.edgemont.org/"
     grade: #(optional)
       scale: GPA
       achieved: 5.59
