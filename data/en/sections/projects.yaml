@@ -58,6 +58,14 @@ projects:
     role: Owner
     timeline: "Nov 2022"
     repo: https://github.com/bruhspicy/bruhspicy.github.io
-    #url: ""
+    url: "https://geraldwang.netlify.app"
     summary: Personal site built with HUGO (this). Hosted with Netlify.
+    tags: ["hobby", "fun"]
+
+  - name: Bruhspicy Dark Theme
+    role: Owner
+    timeline: "Nov 2022"
+    repo: https://github.com/bruhspicy/bruhspicy-dark
+    url: "https://marketplace.visualstudio.com/items?itemName=Bruhspicy.bruhspicy-dark&ssr=false#overview"
+    summary: Personal VS Code theme. Available on Marketplace.
     tags: ["hobby", "fun"]
