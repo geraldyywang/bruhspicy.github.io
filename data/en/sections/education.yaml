@@ -44,7 +44,7 @@ degrees:
     #     url: "#"
     extracurricularActivities: #(optional)
       - Varsity Blues Foil Fencer
-      - Registered Study Group Leader for PHY151, CSC110, MAT137
+      - Registered Study Group Leader for PHY151, CSC110, MAT137, PHY152
       - UofTAI Learn AI
       - Volunteer Notetaker for Accessibility Services for CSC110
 
@@ -59,6 +59,7 @@ degrees:
       achieved: 5.59
       outOf: 5 (weighted)
     extracurricularActivities: #(optional)
+      - Cum Laude Society
       - Co-Founder and Coach of EHS Fencing Club
       - Competitive Foil and Saber Fencer
       - International Latin Ballroom Dancer
