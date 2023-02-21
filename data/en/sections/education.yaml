@@ -44,9 +44,8 @@ degrees:
     #     url: "#"
     extracurricularActivities: #(optional)
       - Varsity Blues Foil Fencer
-      - Registered Study Group Leader for PHY151, CSC110, MAT137, PHY152
+      - Registered Study Group Leader for PHY151, MAT137, PHY152
       - UofTAI Learn AI
-      - Volunteer Notetaker for Accessibility Services for CSC110
 
   - name: Secondary School Certificate
     icon: fa-school
